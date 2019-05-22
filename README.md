@@ -17,3 +17,5 @@ This project will study what effects changes on NYC Public Transportation. There
 The key element of the project is the use of datasets from the [New York Metropolitan Transportation Council](https://www.nymtc.org/DATA-AND-MODELING//Transportation-Data-and-Statistics/Publications/Travel-Patterns). This dataset provides usage data over many years. I will be using ridership totals across the following categories: MTA Rail, Buses, Port Authority, and NJ Transit. I will also be using Q1-4 from the years of 2008-2017. 
 
 I also use population data from  weather data from the U.S. Census, and weather data from: https://raw.githubusercontent.com/toddwschneider/nyc-taxi-data/master/data/central_park_weather.csv
+
+Repository Link: https://github.com/jenniferrkim/public-transport-data-bootcamp-final-project
